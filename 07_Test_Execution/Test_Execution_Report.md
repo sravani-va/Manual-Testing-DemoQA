@@ -42,8 +42,8 @@ The report provides execution status, defect references, execution comments, and
 | EX-TB-002    | TC-TB-002    | FR-TB-001            | Pass   | N/A        | Sravani Vanam | 10-Jul-2026    | Alphabetic input accepted correctly.           |
 | EX-TB-003    | TC-TB-003    | FR-TB-001            | Pass   | N/A        | Sravani Vanam | 10-Jul-2026    | Spaces handled correctly.                      |
 | EX-TB-004    | TC-TB-004    | FR-TB-001            | Fail   | BUG-TB-002 | Sravani Vanam | 10-Jul-2026    | Special characters accepted unexpectedly.      |
-| EX-TB-005    | TC-TB-005    | FR-TB-002            | Pass   | N/A        | Sravani Vanam | 10-Jul-2026    | Valid email accepted successfully.             |
-| EX-TB-006    | TC-TB-006    | FR-TB-002            | Fail   | BUG-TB-001 | Sravani Vanam | 10-Jul-2026    | Invalid email accepted.                        |
+| EX-TB-005    | TC-TB-005    | FR-TB-002            | Pass   | N/A        | Sravani Vanam | 10-Jul-2026    | Invalid email correctly rejected by validation.   |
+| EX-TB-006    | TC-TB-006    | FR-TB-002            | pass   | N/A     | Sravani Vanam | 10-Jul-2026    | Invalid email accepted.                        |
 | EX-TB-007    | TC-TB-007    | FR-TB-001, FR-TB-002 | Pass   | N/A        | Sravani Vanam | 10-Jul-2026    | Mandatory field validation worked as expected. |
 | EX-TB-008    | TC-TB-008    | FR-TB-003            | Pass   | N/A        | Sravani Vanam | 10-Jul-2026    | Current Address accepted correctly.            |
 | EX-TB-009    | TC-TB-009    | FR-TB-004            | Pass   | N/A        | Sravani Vanam | 10-Jul-2026    | Permanent Address accepted correctly.          |
