@@ -1,48 +1,51 @@
 # Software Requirements Specification (SRS)
 
-## Project Name
+**Project:** DemoQA Manual Testing Portfolio
 
-DemoQA Manual Testing Portfolio
+| Field       | Details       |
+| ----------- | ------------- |
+| Module      | Text Box      |
+| Version     | 1.0           |
+| Prepared By | Sravani Vanam |
+| Status      | Draft         |
 
-## Module
+---
 
-Text Box
+# 1. Purpose
 
-## Purpose
+This document defines the functional requirements for the DemoQA Text Box module. These requirements serve as the basis for designing test scenarios, test cases, and the Requirement Traceability Matrix (RTM).
 
-The Text Box module allows users to enter personal information and submit it for display on the page.
+---
 
-## Input Fields
+# 2. Module Overview
 
-| Field | Description |
-|--------|-------------|
-| Full Name | User's full name |
-| Email | User's email address |
-| Current Address | User's current residential address |
-| Permanent Address | User's permanent address |
+The Text Box module allows users to enter personal information and submit it. Upon successful submission, the entered information is displayed below the form.
 
-## Button
+---
 
-Submit
+# 3. Functional Requirements
 
-## Functional Requirements
+| Requirement ID | Description                                                                          |
+| -------------- | ------------------------------------------------------------------------------------ |
+| FR-TB-001      | The system shall allow the user to enter a Full Name.                                |
+| FR-TB-002      | The system shall allow the user to enter a valid Email address.                      |
+| FR-TB-003      | The system shall allow the user to enter a Current Address.                          |
+| FR-TB-004      | The system shall allow the user to enter a Permanent Address.                        |
+| FR-TB-005      | The system shall display the submitted information after clicking the Submit button. |
 
-### FR-001
+---
 
-The system shall allow users to enter their full name.
+# 4. Assumptions
 
-### FR-002
+* The application is available.
+* Internet connectivity is available.
+* Testing is performed using Google Chrome.
 
-The system shall allow users to enter a valid email address.
+---
 
-### FR-003
+# 5. References
 
-The system shall allow users to enter their current address.
-
-### FR-004
-
-The system shall allow users to enter their permanent address.
-
-### FR-005
-
-The system shall display the submitted information after clicking the Submit button.
+* DemoQA Text Box Module
+* Test Plan
+* Test Scenarios
+* Test Cases
