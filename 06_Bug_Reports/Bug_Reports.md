@@ -127,7 +127,6 @@ Define and implement input validation rules for the Full Name field.
 
 | Defect ID  | Related Test Case | Title                                                  | Severity | Priority | Status |
 | ---------- | ----------------- | ------------------------------------------------------ | -------- | -------- | ------ |
-| BUG-TB-001 | TC-TB-006         | Invalid Email Address Validation                       | Medium   | High     | Open   |
 | BUG-TB-002 | TC-TB-004         | Full Name Field Accepts Unsupported Special Characters | Low      | Medium   | Open   |
 
 ---
