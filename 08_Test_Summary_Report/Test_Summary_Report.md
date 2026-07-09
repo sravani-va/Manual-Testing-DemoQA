@@ -77,7 +77,6 @@ The following activities were completed:
 
 | Defect ID  | Description                                            | Status |
 | ---------- | ------------------------------------------------------ | ------ |
-| BUG-TB-001 | Invalid Email Address Validation                       | Open   |
 | BUG-TB-002 | Full Name Field Accepts Unsupported Special Characters | Open   |
 
 ---
