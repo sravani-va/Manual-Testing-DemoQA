@@ -114,3 +114,4 @@ The following testing types will be performed:
 | Role        | Responsibility          |
 | ----------- | ----------------------- |
 | QA Engineer | Design, execute, report |
+
